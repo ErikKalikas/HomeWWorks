@@ -1,0 +1,14 @@
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.AssemblyInfoInputs.cache
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.AssemblyInfo.cs
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.csproj.CoreCompileInputs.cache
+C:\Users\aazze\source\repos\Works\Works\bin\Debug\net10.0\Works.exe
+C:\Users\aazze\source\repos\Works\Works\bin\Debug\net10.0\Works.deps.json
+C:\Users\aazze\source\repos\Works\Works\bin\Debug\net10.0\Works.runtimeconfig.json
+C:\Users\aazze\source\repos\Works\Works\bin\Debug\net10.0\Works.dll
+C:\Users\aazze\source\repos\Works\Works\bin\Debug\net10.0\Works.pdb
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.dll
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\refint\Works.dll
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.pdb
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\Works.genruntimeconfig.cache
+C:\Users\aazze\source\repos\Works\Works\obj\Debug\net10.0\ref\Works.dll
